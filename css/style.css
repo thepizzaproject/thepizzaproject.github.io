@@ -1,0 +1,64 @@
+
+.profilepic{
+	max-width:100%;
+}
+
+.profilepic2{
+	max-width:50%;
+}
+
+
+.card{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.icon-space{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.color-font{
+	color: black;
+}
+
+.font-left{
+	text-align: left
+}
+
+.social-icon:hover{
+	text-decoration: none;
+}
+
+.font-bold{
+	font-weight: bold;
+}
+
+.font-bolder{
+	font-weight: 900;
+}
+
+.nav-space{
+	padding-right:20px;
+}
+
+.active-link{
+	color: white;
+}
+
+.fix-background{
+	background-attachment: fixed
+} 
+
+.transparent{
+    opacity: 0.80;
+}
+
+.text-center-homepage{
+	padding: 70px;
+}
+
+.homepage-font{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
